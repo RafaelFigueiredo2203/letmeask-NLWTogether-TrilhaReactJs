@@ -30,8 +30,9 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Firebase](https://firebase.google.com/docs)
+- [Sass-css](https://sass-lang.com/documentation)
 
 ## 💻 Projeto
 
