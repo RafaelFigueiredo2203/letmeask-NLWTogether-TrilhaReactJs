@@ -15,7 +15,7 @@
   ## 🧠 Responsividade
   
   <h1 align="center">
-  <img  src="https://user-images.githubusercontent.com/60237326/123527847-47649500-d6b9-11eb-9b07-08a6fa7a772d.png"/>
+  <img width="200px" src="https://user-images.githubusercontent.com/60237326/123527847-47649500-d6b9-11eb-9b07-08a6fa7a772d.png"/>
   <img  src="https://user-images.githubusercontent.com/60237326/123527961-1cc70c00-d6ba-11eb-9aef-6c3038d5f8ad.png"/>
   <img  src="https://user-images.githubusercontent.com/60237326/123527979-454f0600-d6ba-11eb-8150-9b45ecb0dd0a.png"/>
   
