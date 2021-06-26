@@ -8,16 +8,17 @@
   Este projeto foi desenvolvido junto com a Rocketseat na NlwTogether , amei muito participar e estou levando a aplicação para o próximo nível , ja comecei deixando ela responsiva para tela mobile , agradeço muito , pois foi uma semana intensa e com muito conhecimento absorvido.
 </p>
 
-<center> 
+
   <img src="https://user-images.githubusercontent.com/60237326/123527796-c4dbd580-d6b8-11eb-8b1d-6e1e3dcfeefb.png"/>
 
   
   ## 🧠 Responsividade
   
-  <img align="center" src="https://user-images.githubusercontent.com/60237326/123527847-47649500-d6b9-11eb-9b07-08a6fa7a772d.png"/>
+  <h1 align="center">
+  <img  src="https://user-images.githubusercontent.com/60237326/123527847-47649500-d6b9-11eb-9b07-08a6fa7a772d.png"/>
 
-  
-</center>
+  </h1>
+
 
 
 
