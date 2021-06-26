@@ -4,7 +4,9 @@
 
 
 <br>
-
+<p>
+  Este projeto foi desenvolvido junto com a Rocketseat na NlwTogether , amei muito participar e estou levando a aplicação para o próximo nível , ja comecei deixando ela responsiva para tela mobile , agradeço muito , pois foi uma semana intensa e com muito conhecimento absorvido.
+</p>
 
 
 ## ✨ Tecnologias
