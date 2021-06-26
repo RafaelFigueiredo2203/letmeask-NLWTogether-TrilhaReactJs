@@ -9,7 +9,8 @@
 </p>
 
 <center> 
- ![image](https://user-images.githubusercontent.com/60237326/123527762-69a9e300-d6b8-11eb-89aa-1bd4a8d0a1a0.png)
+  ![image](https://user-images.githubusercontent.com/60237326/123527796-c4dbd580-d6b8-11eb-8b1d-6e1e3dcfeefb.png)
+
 </center>
 
 
