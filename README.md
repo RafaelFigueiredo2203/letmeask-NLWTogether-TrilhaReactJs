@@ -36,11 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
+O Letmeask é uma aplicação de criação de salas sobre perguntas e respostas para usuarios interagirem .
 
-## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## 🚀 Como executar
 
@@ -51,10 +49,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com muito esforço e dedicação , mais uma vez obrigado Rocketseat.🚀 🚀 🚀 
